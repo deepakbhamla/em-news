@@ -1,0 +1,19 @@
+#basic-nav-dropdown::after{
+    display: none; 
+}
+.nav-dropdown{
+    border: none!important;
+    width: 30%!important;; 
+    text-align:center;
+ }
+
+ .navbar.navbar-default {
+    border-bottom: 0;
+  }
+
+
+  .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #000!important;
+    background-color: #fafafa!important;
+    border: 1px solid lightgray;    
+}
